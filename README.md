@@ -1,0 +1,2 @@
+# StoFast
+Gestion de stock
